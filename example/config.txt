@@ -1,0 +1,2 @@
+Prefix plugins/FASTQ2454/example
+Plugin FASTQ2454 inputfile S12_R1.fastq outputfile .
